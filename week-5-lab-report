@@ -1,0 +1,5 @@
+# Week 5 lab report
+
+```
+grep -h 'medicine' biomed/*.txt
+```
