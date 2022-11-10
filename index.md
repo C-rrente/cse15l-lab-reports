@@ -12,3 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/71531248/198944711-21329e45-2d44-47d0-9dd9-d61e679e0b3c.png)
 
+[Lab Report 3](week-7-lab-report.md)
+![image](https://user-images.githubusercontent.com/71531248/201209936-daafb20a-9a90-4fb7-a30f-2965be76c748.png)
+
+
