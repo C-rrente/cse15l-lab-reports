@@ -15,4 +15,5 @@
 [Lab Report 3](week-7-lab-report.md)
 ![image](https://user-images.githubusercontent.com/71531248/201209936-daafb20a-9a90-4fb7-a30f-2965be76c748.png)
 
-
+[Week 8 Lab Report](week-8-lab-report.md)
+![image](https://user-images.githubusercontent.com/71531248/203904785-18ccfa43-ce65-4105-8be7-1b5782821b7a.png)
