@@ -29,7 +29,7 @@ fi
 # Methods Corrected
 ![image](https://user-images.githubusercontent.com/71531248/203903483-f9194579-2cdc-4023-a74e-3064dd44c39b.png)
 
-# Methdos Signature
+# Methods Signature
 ![image](https://user-images.githubusercontent.com/71531248/203903691-4727fed4-876e-42ea-acfe-5a37d053978d.png)
 
 
