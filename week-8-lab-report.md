@@ -36,3 +36,8 @@ fi
 # Compiler Error
 For this method, my script compiles the code, puts it in the correct directory, then checks if it compiled, if it didn't then it files and adds the failure to the grades file.
 It then runs the code and checks to see if the code passes the tests, if it does not, it adds another failure, otherwise adds a pass.
+
+Git clone returns 0.
+javac returns 1.
+
+Thus the grade file shows it as a failure.
