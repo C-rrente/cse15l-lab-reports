@@ -23,7 +23,7 @@ else
 fi
 ```      
 
-# Compile Error
+# Compiler Error
 ![image](https://user-images.githubusercontent.com/71531248/203903241-767e4511-c29f-4830-9e6b-39d4ceed573a.png)
 
 # Methods Corrected
